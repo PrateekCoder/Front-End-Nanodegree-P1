@@ -1,0 +1,65 @@
+/*IMPORT ZOCIAL ICON FONTS. */
+@import url(http://weloveiconfonts.com/api/?family=brandico|zocial);
+
+
+/* zocial */
+[class*="zocial-"]:before {
+  font-family: 'zocial', sans-serif;
+}
+/* brandico */
+[class*="brandico-"]:before {
+  font-family: 'brandico', sans-serif;
+}
+
+.pic {
+  display: block;
+  padding: 10px;
+  margin: 0 auto 10px;
+  max-width: 100%;
+  border: 2px solid white;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+
+.heading {
+  text-align: center;
+  text-transform:capitalize;
+  font-family: "Raleway", sans-serif;
+
+}
+
+.text {
+  text-align: center;
+  text-transform: capitalize;
+  font-family: 'Lora', serif;
+
+}
+
+.big_text {
+  text-transform: uppercase;
+  font-size: 50px;
+}
+
+.row {
+  padding: 20px;
+}
+
+.my-image {
+  display: block;
+  margin: 0 auto 10px;
+  max-width: 100%;
+  border: 2px solid white;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+
+.medium-text {
+  font-size: 25px;
+}
+
+.center_obj {
+  margin-left: auto;
+  margin-right: auto;
+}
