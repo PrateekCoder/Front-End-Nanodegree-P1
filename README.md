@@ -1,7 +1,7 @@
 #PROJECT 1: BUILD A PORTFOLIO SITE FOR FRONT-END NANODEGREE
 
 ##Link to my project website:
-http://prateekcoder.github.io/Front-End-Nanodegree-P1/
+http://prateekcoder.github.io/Front-End-Nanodegree-P1-Portfolio-Site/
 
 ##Minimum Requirement to complete this P1:
 
